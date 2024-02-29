@@ -115,6 +115,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\AuthService.cs" />
+    <Compile Include="Services\BandaraService.cs" />
+    <Compile Include="Validation\BandaraValidation.cs" />
     <Compile Include="Services\BaseServices.cs" />
     <Compile Include="Utils\Utilities.cs" />
     <Compile Include="Validation\AuthValidation.cs" />

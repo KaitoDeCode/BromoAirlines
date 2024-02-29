@@ -1651,7 +1651,9 @@ namespace BromoAirlines
 			this.SendPropertyChanging();
 			entity.Negara = null;
 		}
-	}
+
+
+    }
 	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.PerubahanStatusJadwalPenerbangan")]
 	public partial class PerubahanStatusJadwalPenerbangan : INotifyPropertyChanging, INotifyPropertyChanged

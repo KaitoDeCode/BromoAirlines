@@ -26,7 +26,7 @@ namespace BromoAirlines.Validation
                     (value.ToString() == "0")
                    )
                 {
-                    utils.message("error","Kolom tidak boleh ada yang kosong");
+                    utils.message("error","Kolom tidak boleh ada yang kosong atau bernilai 0");
                     break;
                     return true;
                 }
