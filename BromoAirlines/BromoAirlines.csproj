@@ -76,6 +76,36 @@
     <Compile Include="FormAdmin\DashboardAdmin.Designer.cs">
       <DependentUpon>DashboardAdmin.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormAdmin\MasterBandaraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin\MasterBandaraForm.Designer.cs">
+      <DependentUpon>MasterBandaraForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin\MasterJadwalPenerbangan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin\MasterJadwalPenerbangan.Designer.cs">
+      <DependentUpon>MasterJadwalPenerbangan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin\MasterKodePromo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin\MasterKodePromo.Designer.cs">
+      <DependentUpon>MasterKodePromo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin\MasterMaskapaiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin\MasterMaskapaiForm.Designer.cs">
+      <DependentUpon>MasterMaskapaiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin\UbahStatusPenerbangan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin\UbahStatusPenerbangan.Designer.cs">
+      <DependentUpon>UbahStatusPenerbangan.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormUser\DashboadUser.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +127,21 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormAdmin\DashboardAdmin.resx">
       <DependentUpon>DashboardAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin\MasterBandaraForm.resx">
+      <DependentUpon>MasterBandaraForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin\MasterJadwalPenerbangan.resx">
+      <DependentUpon>MasterJadwalPenerbangan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin\MasterKodePromo.resx">
+      <DependentUpon>MasterKodePromo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin\MasterMaskapaiForm.resx">
+      <DependentUpon>MasterMaskapaiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin\UbahStatusPenerbangan.resx">
+      <DependentUpon>UbahStatusPenerbangan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormUser\DashboadUser.resx">
       <DependentUpon>DashboadUser.cs</DependentUpon>
@@ -136,6 +181,8 @@
     <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\icons8-schedule-32 %281%29.png" />
+    <None Include="Resources\icons8-schedule-32.png" />
     <None Include="Resources\time-five-regular-72.png" />
     <None Include="Resources\right-arrow-regular-72.png" />
     <None Include="Resources\purchase-tag-alt-unselected-72.png" />

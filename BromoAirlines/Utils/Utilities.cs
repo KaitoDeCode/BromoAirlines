@@ -21,5 +21,13 @@ namespace BromoAirlines.Utils
             form.Show();
             currentForm.Hide();
         }
+        public void Link(Form form, Panel panel)
+        {
+            panel.Controls.Clear();
+            form.TopLevel = false;
+            form.Dock = DockStyle.Fill;
+            panel.Controls.Add(form);
+            form.Show();
+        }
     }
 }

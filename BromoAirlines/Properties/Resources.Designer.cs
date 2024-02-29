@@ -273,6 +273,26 @@ namespace BromoAirlines.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_schedule_32 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-schedule-32", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_schedule_32__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-schedule-32 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap log_out_alt_72 {
             get {
                 object obj = ResourceManager.GetObject("log-out-alt-72", resourceCulture);
