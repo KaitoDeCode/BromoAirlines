@@ -29,5 +29,20 @@ namespace BromoAirlines.Utils
             panel.Controls.Add(form);
             form.Show();
         }
+
+        public void clearText(params TextBox[] text)
+        {
+            foreach (TextBox textBox in text)
+            {
+                textBox.Text = "";
+            }
+        }
+
+        public DialogResult confirm(
+            String message    
+        )
+        {
+            return MessageBox.Show(message, "Konfirmasi", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+        }
     }
 }

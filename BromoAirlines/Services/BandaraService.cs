@@ -66,5 +66,49 @@ namespace BromoAirlines.Services
 
            
         }
+
+        public void update(
+            int id,
+            String name,
+            String kodeIata,
+            String kota,
+            int negaraId,
+            String jumlahTerminal,
+            String alamat
+        )
+        {
+            var error = validation.update(
+                id,
+                name,
+                kodeIata,
+                kota,
+                negaraId,
+                jumlahTerminal,
+                alamat
+            );
+            if (!error)
+            {
+                try
+                {
+                    Bandara bandara = this.db.Bandaras.FirstOrDefault(item => item.ID == id);
+                    if (bandara is null)
+                    {
+                        utils.message("error", "Bandara tidak ditemukan");
+                        return;
+                    }
+                    bandara.Nama = name;
+                    bandara.KodeIATA = kodeIata;
+                    bandara.Kota = kota;
+                    bandara.NegaraID = negaraId;
+                    bandara.JumlahTerminal = int.Parse(jumlahTerminal);
+                    bandara.Alamat = alamat;
+                    db.SubmitChanges();
+                    utils.message("success", "Berhasil memperbarui bandara");
+                }catch(Exception ex)
+                {
+                    utils.message("error", ex.Message); 
+                }
+            }
+        }
     }
 }
