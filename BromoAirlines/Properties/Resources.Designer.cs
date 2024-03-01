@@ -163,6 +163,16 @@ namespace BromoAirlines.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _81 {
+            get {
+                object obj = ResourceManager.GetObject("81", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _9__Customer___List_Penerbangan {
             get {
                 object obj = ResourceManager.GetObject("9. Customer - List Penerbangan", resourceCulture);
@@ -273,6 +283,26 @@ namespace BromoAirlines.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_clock_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-clock-24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_schedule_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-schedule-24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_schedule_32 {
             get {
                 object obj = ResourceManager.GetObject("icons8-schedule-32", resourceCulture);
@@ -286,6 +316,16 @@ namespace BromoAirlines.Properties {
         internal static System.Drawing.Bitmap icons8_schedule_32__1_ {
             get {
                 object obj = ResourceManager.GetObject("icons8-schedule-32 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_users_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-users-24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -316,6 +356,86 @@ namespace BromoAirlines.Properties {
         internal static System.Drawing.Bitmap log_out_unselected_72 {
             get {
                 object obj = ResourceManager.GetObject("log-out-unselected-72", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo {
+            get {
+                object obj = ResourceManager.GetObject("Logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_Alt {
+            get {
+                object obj = ResourceManager.GetObject("Logo Alt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_Rect {
+            get {
+                object obj = ResourceManager.GetObject("Logo Rect", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_Rect___Without_Tagline {
+            get {
+                object obj = ResourceManager.GetObject("Logo Rect - Without Tagline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_Rect_Alt {
+            get {
+                object obj = ResourceManager.GetObject("Logo Rect Alt", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_Rect_Alt___Without_Tagline {
+            get {
+                object obj = ResourceManager.GetObject("Logo Rect Alt - Without Tagline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_Small {
+            get {
+                object obj = ResourceManager.GetObject("Logo Small", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Logo_Small_Alt {
+            get {
+                object obj = ResourceManager.GetObject("Logo Small Alt", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

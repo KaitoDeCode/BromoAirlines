@@ -106,21 +106,46 @@
     <Compile Include="FormAdmin\UbahStatusPenerbangan.Designer.cs">
       <DependentUpon>UbahStatusPenerbangan.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormUser\BeliTIketForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser\BeliTIketForm.Designer.cs">
+      <DependentUpon>BeliTIketForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormUser\DashboadUser.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormUser\DashboadUser.Designer.cs">
       <DependentUpon>DashboadUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormUser\ListPenerbanganForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser\ListPenerbanganForm.Designer.cs">
+      <DependentUpon>ListPenerbanganForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser\TiketSayaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser\TiketSayaForm.Designer.cs">
+      <DependentUpon>TiketSayaForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\AuthService.cs" />
     <Compile Include="Services\BandaraService.cs" />
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Validation\BandaraValidation.cs" />
     <Compile Include="Services\BaseServices.cs" />
     <Compile Include="Utils\Utilities.cs" />
     <Compile Include="Validation\AuthValidation.cs" />
     <Compile Include="Validation\BaseValidation.cs" />
+    <Compile Include="Validation\MaskapaiValidation.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -145,8 +170,17 @@
     <EmbeddedResource Include="FormAdmin\UbahStatusPenerbangan.resx">
       <DependentUpon>UbahStatusPenerbangan.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormUser\BeliTIketForm.resx">
+      <DependentUpon>BeliTIketForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormUser\DashboadUser.resx">
       <DependentUpon>DashboadUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser\ListPenerbanganForm.resx">
+      <DependentUpon>ListPenerbanganForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser\TiketSayaForm.resx">
+      <DependentUpon>TiketSayaForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -158,6 +192,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="DataClasses.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>
       <LastGenOutput>DataClasses.designer.cs</LastGenOutput>
@@ -223,10 +260,14 @@
     <None Include="Resources\3. Admin - Master Bandara.png" />
     <None Include="Resources\2. Daftar Akun.png" />
     <None Include="Resources\1. Login.png" />
+    <None Include="Resources\8. Customer - Main1.png" />
     <Content Include="Resources\App Logo Alt.png" />
     <None Include="Resources\App Logo1.png" />
     <None Include="Resources\App Logo Alt1.png" />
     <Content Include="Resources\App Logo.png" />
+    <None Include="Resources\icons8-schedule-24.png" />
+    <None Include="Resources\icons8-clock-24.png" />
+    <None Include="Resources\icons8-users-24.png" />
     <Content Include="Resources\Icons\airplane-ticket-black.png" />
     <Content Include="Resources\Icons\airplane-ticket.png" />
     <Content Include="Resources\Icons\calendar-selected-72.png" />
@@ -270,6 +311,14 @@
     <Content Include="Resources\Logo - Without Padding\Logo Rect Alt - Without Tagline - Without Padding.png" />
     <Content Include="Resources\Logo - Without Padding\Logo Small - Without Padding.png" />
     <Content Include="Resources\Logo - Without Padding\Logo Small Alt - Without Padding.png" />
+    <None Include="Resources\Logo Alt.png" />
+    <None Include="Resources\Logo Rect - Without Tagline.png" />
+    <None Include="Resources\Logo Rect Alt - Without Tagline.png" />
+    <None Include="Resources\Logo Rect Alt.png" />
+    <None Include="Resources\Logo Rect.png" />
+    <None Include="Resources\Logo Small Alt.png" />
+    <None Include="Resources\Logo Small.png" />
+    <None Include="Resources\Logo.png" />
     <Content Include="Resources\Simbol Kurang Lebih.txt" />
     <Content Include="Resources\User Interface\1. Login.png" />
     <Content Include="Resources\User Interface\10. Customer - Beli Tiket.png" />

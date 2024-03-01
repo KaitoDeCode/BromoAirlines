@@ -124,6 +124,12 @@
   <data name="7. Admin - Ubah Status Penerbangan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\7. Admin - Ubah Status Penerbangan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="group-solid-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\group-solid-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="81" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8. Customer - Main1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="calendar-selected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\calendar-selected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -142,14 +148,23 @@
   <data name="11. Customer - Tiket Saya" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\11. Customer - Tiket Saya.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="plane-take-off-solid-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plane-take-off-solid-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="circle-solid-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\circle-solid-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Small Alt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Small Alt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="4. Admin - Master Maskapai" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\4. Admin - Master Maskapai.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="10. Customer - Beli Tiket" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\10. Customer - Beli Tiket.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Rect Alt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Rect Alt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="plane-take-off-selected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\plane-take-off-selected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -162,6 +177,9 @@
   </data>
   <data name="3. Admin - Master Bandara" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\3. Admin - Master Bandara.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8-clock-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-clock-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="map-unselected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\map-unselected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,6 +196,9 @@
   <data name="log-out-regular-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\log-out-regular-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="icons8-schedule-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-schedule-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="6. Admin - Master Kode Promo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\6. Admin - Master Kode Promo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -193,11 +214,14 @@
   <data name="9. Customer - List Penerbangan" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\9. Customer - List Penerbangan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="notepad-selected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\notepad-selected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="right-arrow-regular-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\right-arrow-regular-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Small.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Rect Alt - Without Tagline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Rect Alt - Without Tagline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1. Login" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1. Login.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -205,14 +229,23 @@
   <data name="purchase-tag-alt-unselected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\purchase-tag-alt-unselected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Logo Rect - Without Tagline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Rect - Without Tagline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="plane-take-off-unselected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\plane-take-off-unselected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="map-selected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\map-selected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="App Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\App Logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Logo Alt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Alt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo Rect" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo Rect.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="App Logo Alt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\App Logo Alt1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -220,17 +253,20 @@
   <data name="calendar-unselected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\calendar-unselected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="group-solid-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\group-solid-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-schedule-32 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-schedule-32 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="time-five-regular-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\time-five-regular-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="App Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\App Logo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="mountain" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\mountain.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="plane-take-off-solid-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\plane-take-off-solid-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="notepad-selected-72" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\notepad-selected-72.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="icons8-schedule-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-schedule-32.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -241,7 +277,7 @@
   <data name="airplane-ticket" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\airplane-ticket.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="icons8-schedule-32 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\icons8-schedule-32 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="icons8-users-24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-users-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -16,5 +16,27 @@ namespace BromoAirlines.FormUser
         {
             InitializeComponent();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DashboadUser_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            BeliTIketForm form = new BeliTIketForm();
+            form.Show();
+            this.Hide();
+        }
     }
 }
